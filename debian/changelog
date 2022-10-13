@@ -1,0 +1,32 @@
+node-encodeurl (1.0.2-1) unstable; urgency=medium
+
+  * Team upload
+
+  [ Jelmer Vernooĳ ]
+  * Use secure copyright file specification URI.
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+  * Update standards version to 4.1.1, no changes needed.
+
+  [ Xavier Guimard ]
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * New upstream version 1.0.2
+  * Use pkg-js-tools auto test & install
+
+ -- Xavier Guimard <yadd@debian.org>  Tue, 26 May 2020 12:44:57 +0200
+
+node-encodeurl (1.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #874053)
+
+ -- Kartik Kulkarni <kartik.koolks@gmail.com>  Sat, 02 Sep 2017 14:36:08 +0000
