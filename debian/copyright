@@ -2,6 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: encodeurl
 Upstream-Contact: https://github.com/pillarjs/encodeurl/issues
 Source: https://github.com/pillarjs/encodeurl#readme
+ https://registry.npmjs.org/@types/encodeurl
 
 Files: *
 Copyright: 2016 Douglas Christopher Wilson
@@ -9,6 +10,10 @@ License: Expat
 
 Files: debian/*
 Copyright: 2017 Kartik Kulkarni <kartik.koolks@gmail.com>
+License: Expat
+
+Files: types-*/*
+Copyright: Microsoft Corporation
 License: Expat
 
 License: Expat
